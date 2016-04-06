@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+    <file alias="img/android.png">img/android.png</file>
+    <file alias="img/xcode.png">img/xcode.png</file>
+    <file alias="img/main.ico">img/main.ico</file>
+</qresource>
+</RCC>
